@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Smartphone XYZ",
+      "brand": "TechBrand",
+      "category": "Accessories",
+      "price": "750",
+      "description": "A high-end smartphone with a stunning display and powerful processor.",
+      "createdAt": "2024-06-08"
+    },
+    {
+      "id": "2",
+      "name": "Running Shoes",
+      "brand": "FitGear",
+      "category": "Sportswear",
+      "price": 129.99,
+      "description": "Comfortable and durable running shoes perfect for long-distance running.",
+      "createdAt": "2024-04-21"
+    },
+    {
+      "id": "3",
+      "name": "Wireless Headphones",
+      "brand": "SoundMaster",
+      "category": "Audio",
+      "price": 199.99,
+      "description": "Noise-cancelling wireless headphones with excellent sound quality.",
+      "createdAt": "2024-03-15"
+    },
+    {
+      "id": "5",
+      "name": "Blender",
+      "brand": "KitchenEase",
+      "category": "Home Appliances",
+      "price": 89.99,
+      "description": "Multi-function blender with powerful motor and sleek design.",
+      "createdAt": "2024-02-10"
+    }
+  ]
+}
